@@ -30,7 +30,7 @@ public class HomeController {
     @ResponseBody
     public List<String> akce3() {
         List<String> seznam = new ArrayList<>();
-        seznam.add("xxxzzz");
+        seznam.add("xxxzzz000");
         seznam.add("yyy");
         return seznam;
     }
